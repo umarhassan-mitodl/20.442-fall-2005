@@ -1,0 +1,66 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Structural Biology"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biotechnology"
+    ]
+  ],
+  "legacy_uid": "b273d162-77b0-806d-168c-dfe07cb03236",
+  "instructors": {
+    "content": [
+      "38e986cf-d667-1314-1fa4-24521cbb173c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "64305e65-f9e1-6478-177b-0a1865cd410e",
+    "website": "20-442-molecular-structure-of-biological-materials-be-442-fall-2005"
+  },
+  "course_title": "Molecular Structure of Biological Materials (BE.442)",
+  "hide_download": true,
+  "course_description": "This course, intended for both graduate and upper level undergraduate students, will focus on understanding of the basic molecular structural principles of biological materials. It will address the molecular structures of various materials of biological origin, such as several types of collagen, silk, spider silk, wool, hair, bones, shells, protein adhesives, GFP, and self-assembling peptides. It will also address molecular design of new biological materials applying the molecular structural principles. The long-term goal of this course is to teach molecular design of new biological materials for a broad range of applications. A brief history of biological materials and its future perspective as well as its impact to the society will also be discussed. Several experts will be invited to give guest lectures.\n",
+  "department_numbers": [
+    "20"
+  ],
+  "extra_course_numbers": "20.342",
+  "primary_course_number": "20.442",
+  "course_image_thumbnail": {
+    "content": "aecf51da-f78b-b2e8-307c-9cadb143406a",
+    "website": "20-442-molecular-structure-of-biological-materials-be-442-fall-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments with Examples",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "81f768e0-d8ce-482a-871c-b5a4cd80ea91",
+  "site_short_id": "20.442-fall-2005",
+  "site_url_path": "courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005",
+  "title": "Course Metadata"
+}
